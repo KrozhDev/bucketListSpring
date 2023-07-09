@@ -16,7 +16,6 @@ public class BucketServiceImpl implements BucketService {
 
     public BucketServiceImpl() {
         bucketList = new ArrayList<>();
-
     }
 
     public void add(Integer id) {
